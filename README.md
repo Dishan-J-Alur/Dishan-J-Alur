@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishan-j-alur&label=Profile%20views&color=0e75b6&style=flat" alt="dishan-j-alur" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishan-j-alur" alt="dishan-j-alur" /></a> </p>
-https://github.com/user-attachments/assets/a39999cd-fc05-4707-9959-b2a6980ed7d4
+
 
 - 🔭 I’m currently working on **Data Science**
 
