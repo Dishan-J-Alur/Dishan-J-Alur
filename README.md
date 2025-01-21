@@ -1,9 +1,9 @@
 <h1 align="center">Hi ✋🏻, I'm Dishan J Alur</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishan-j-alur&label=Profile%20views&color=0e75b6&style=flat" alt="dishan-j-alur" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)(https://github.com/ryo-ma/github-profile-trophy)
 
-- 🔭 I’m currently working on **Data Science**
+
+- 🔭 I’m currently studying **Data Science**
 
 - 🌱 I’m currently learning **A Lot of Things**
 
